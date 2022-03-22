@@ -25,6 +25,6 @@ public class GuessMyNumber {
             }
         }
 
-        System.out.println("Congratulations! your guess is right on our random number!");
+        System.out.println("Congratulations! our random number is " + rand + ".");
     }
 }
