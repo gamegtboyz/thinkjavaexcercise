@@ -31,6 +31,6 @@ public class GuessMyNumber {
         }
 
         System.out.println("Congratulations! our random number is " + rand + ".");
-        System.out.println("You've guessed it for " + i + " times");
+        System.out.println("You've guessed it for " + i + " times.");
     }
 }
