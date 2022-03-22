@@ -3,4 +3,4 @@ Excercise 1.1: computer scientists have the annoying habit of using common Engli
     >>> In computer jargon, 'statement' means the line of code that performs the simple action e.g. System.out.println(); which is the print statement. On the other hand 'comments' is used to describe the written statements, but have no effect to executioning the program.
   2. What does it mean to say that a program is 'portable'?
   3. In common English, what dos the word compile mean?
-  4. What is an 
+  4. What is an 'executable'? Why is that word used as a noun?
