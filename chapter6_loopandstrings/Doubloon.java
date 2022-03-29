@@ -3,7 +3,7 @@ package chapter6_loopandstrings;
 import java.util.Scanner;
 
 public class Doubloon {
-    // this code is according to
+        // this code is according to exercise 6.5 to find out if the input strings is doubloon ("the string that each alphabet used appears exactly twice)
     public static void main(String[] args) {
         Scanner t = new Scanner(System.in);
         System.out.print("Please enter your text to check if it's doubloon: ");
